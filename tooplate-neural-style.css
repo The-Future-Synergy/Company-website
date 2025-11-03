@@ -1116,7 +1116,13 @@ https://www.tooplate.com/view/2139-neural-portfolio
             .profile-img {
                 font-size: 4rem;
             }
+            .profile-img img{
+                height: 100%;
+            }
 
+            .React-Native{
+                text-align: center;
+            }
             .about-stats {
                 grid-template-columns: 1fr;
                 gap: 20px;
